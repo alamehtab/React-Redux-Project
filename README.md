@@ -12,6 +12,8 @@ This is a simple e-commerce web app built with **React** and **Redux**. It showc
 - 🛠️ Built with React + Redux state management
 
 # Tips to use it ...
-1.open terminal and run the api with json-server --watch db.json --port 3000
-2.type npm run dev
-3.tap on the link and explore
+1.Open terminal and run the api with json-server --watch db.json --port 3000
+<br>
+2.Type npm run dev
+<br>
+3.Tap on the link and explore
