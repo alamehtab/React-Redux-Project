@@ -1,12 +1,17 @@
-# React + Vite
+# React + Vite & Redux Toolkit Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛒 React Redux Shopping Cart App
 
-Currently, two official plugins are available:
+This is a simple e-commerce web app built with **React** and **Redux**. It showcases a list of products and allows users to **add to cart** and **remove from cart**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 View all products on page load
+- ➕ Add products to the cart
+- ➖ Remove products from the cart
+- 🛠️ Built with React + Redux state management
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Tips to use it ...
+1.open terminal and run the api with json-server --watch db.json --port 3000
+2.type npm run dev
+3.tap on the link and explore
